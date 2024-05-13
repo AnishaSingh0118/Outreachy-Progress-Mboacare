@@ -3,7 +3,8 @@
 This repository is dedicated to tracking the progress of our project for the internship. We will be using it to report on our project and keep a record of our work.
 
 # Huge Disclaimer:
-This repository was our submission for the Outreachy internship, but the project concepts and ideas were entirely of @Mboalab's community.
+This repository was our submission for the Outreachy internship, but the project concepts and ideas were entirely of @Mboalab's community so contributing to this repository would violate Mboalab's guidelines since the ownership belongs to them.
+
 
 ## Link to the Actual Repo : https://github.com/Mboalab/Outreachy_May_2023-August_2023-Internships
 
